@@ -1,4 +1,4 @@
-# 🚗 Real-Time Vehicle Detection and Counting using YOLOv8
+# Real-Time Vehicle Detection and Counting using YOLOv8
 
 ## 📌 Overview
 
